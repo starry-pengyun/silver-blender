@@ -104,7 +104,7 @@ Manage and share my Blender and projects to optimize workflow. Explore a variety
 <!-- INITIAL SETUP -->
 ## Initial setup (Version 3.5)
 
-![CleanShot 2023-04-12 at 18 58 07@2x](https://user-images.githubusercontent.com/130320412/231376820-2262e3dd-c511-40e0-9908-edc908508217.png)
+![CleanShot 2023-04-12 at 18 59 45@2x](https://user-images.githubusercontent.com/130320412/231377443-20438d7f-53b3-4420-bf87-e9b71b3251a0.png)
 
 
 <!-- This is an example of how you may give instructions on setting up your project locally.
