@@ -104,7 +104,8 @@ Manage and share my Blender and projects to optimize workflow. Explore a variety
 <!-- INITIAL SETUP -->
 ## Initial setup (Version 3.5)
 
-### Navigation setting
+![CleanShot 2023-04-12 at 18 58 07@2x](https://user-images.githubusercontent.com/130320412/231376820-2262e3dd-c511-40e0-9908-edc908508217.png)
+
 
 <!-- This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
