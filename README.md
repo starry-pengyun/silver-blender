@@ -85,6 +85,9 @@
 
 Manage and share my Blender and projects to optimize workflow. Explore a variety of techniques and styles to unleash the full potential of Blender.
 
+<!-- SHORTCUT KEYS -->
+## Shortcut Keys
+
 <!-- INITIAL SETUP -->
 ## Initial setup (Version 3.5)
 
