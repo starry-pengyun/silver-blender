@@ -204,13 +204,12 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## References
 
-* []()
-* []()
-* []()
+### Markdown Style
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- [Size Limit](https://github.com/ai/size-limit)
+- [Best README Template](https://github.com/othneildrew/Best-README-Template)
 
 
 
