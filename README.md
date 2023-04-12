@@ -85,22 +85,6 @@
 
 Manage and share my Blender and projects to optimize workflow. Explore a variety of techniques and styles to unleash the full potential of Blender.
 
-<!-- 
-### Built With
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
- -->
-
 <!-- INITIAL SETUP -->
 ## Initial setup (Version 3.5)
 
@@ -114,6 +98,18 @@ Manage and share my Blender and projects to optimize workflow. Explore a variety
 | View 2D  | <img src="https://user-images.githubusercontent.com/130320412/231380725-7be20b36-bd58-4083-bc2e-0ca0d08f497c.png" width="500">  |
 
 ### Add-ons
+
+### Blender's directory
+
+macOS
+
+- LOCAL:./3.5/
+- USER: /Users/$USER/Library/Application Support/Blender/3.5/
+- SYSTEM: /Library/Application Support/Blender/3.5/
+
+> macOS stores the Blender binary in `./Blender.app/Contents/MacOS/Blender`. The local path to data and config is: `./Blender.app/Contents/Resources/3.5/`
+
+[Blender’s Directory Layout](https://docs.blender.org/manual/en/latest/advanced/blender_directory_layout.html#macos)
 
 
 <!-- This is an example of how you may give instructions on setting up your project locally.
