@@ -93,7 +93,7 @@ Manage and share my Blender and projects to optimize workflow. Explore a variety
 | Section | Option |
 | --- | --- |
 | Color Picker Type  | <img src="https://user-images.githubusercontent.com/130320412/231377443-20438d7f-53b3-4420-bf87-e9b71b3251a0.png" width="500">  |
-| Spacebar Action  | <img src="https://user-images.githubusercontent.com/130320412/231377443-20438d7f-53b3-4420-bf87-e9b71b3251a0.png" width="500">  |
+| Spacebar Action  | <img src="https://user-images.githubusercontent.com/130320412/231400591-f909b327-26ce-458a-87f6-8efacfc8f5fa.png" width="500">  |
 | 3D view  | <img src="https://user-images.githubusercontent.com/130320412/231380412-cc34aeb8-ea1c-4979-a4f1-6c46fc3fbe25.png" width="500">  |
 | View 2D  | <img src="https://user-images.githubusercontent.com/130320412/231380725-7be20b36-bd58-4083-bc2e-0ca0d08f497c.png" width="500">  |
 
