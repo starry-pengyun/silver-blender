@@ -109,18 +109,9 @@ Manage and share my Blender and projects to optimize workflow. Explore a variety
 
 ### Add-ons
 
-### Blender's directory
+### [Blender's directory](https://docs.blender.org/manual/en/latest/advanced/blender_directory_layout.html#macos)
 
-macOS
-
-- LOCAL:./3.5/
-- USER: /Users/$USER/Library/Application Support/Blender/3.5/
-- SYSTEM: /Library/Application Support/Blender/3.5/
-
-> macOS stores the Blender binary in `./Blender.app/Contents/MacOS/Blender`. The local path to data and config is: `./Blender.app/Contents/Resources/3.5/`
-
-[Blender’s Directory Layout](https://docs.blender.org/manual/en/latest/advanced/blender_directory_layout.html#macos)
-
+<img src="https://user-images.githubusercontent.com/130320412/231583899-5db1c86d-a113-4aa8-864d-2d8d059c40cb.png" width="500">
 
 <!-- This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
