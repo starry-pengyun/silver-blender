@@ -88,6 +88,13 @@ Manage and share my Blender and projects to optimize workflow. Explore a variety
 <!-- SHORTCUT KEYS -->
 ## Shortcut Keys
 
+| Operation | Description |
+| --- | --- |
+| Clear | <img src="https://user-images.githubusercontent.com/130320412/231430432-a34881f7-bc89-491c-ab3b-d414d1ec85cf.png" width="500"> |
+| Show/Hide | <img src="https://user-images.githubusercontent.com/130320412/231431972-dc96b9b3-19b2-4428-8264-210e9449de8e.png" width="500"> |
+| 选择项和活动物体 | <img src="https://user-images.githubusercontent.com/130320412/231432474-b38ae82f-d60f-4370-a8cc-58279b12a3b8.png" width="500"> |
+
+
 <!-- INITIAL SETUP -->
 ## Initial setup (Version 3.5)
 
@@ -95,10 +102,10 @@ Manage and share my Blender and projects to optimize workflow. Explore a variety
 
 | Section | Option |
 | --- | --- |
-| Color Picker Type  | <img src="https://user-images.githubusercontent.com/130320412/231377443-20438d7f-53b3-4420-bf87-e9b71b3251a0.png" width="500">  |
-| Spacebar Action  | <img src="https://user-images.githubusercontent.com/130320412/231400591-f909b327-26ce-458a-87f6-8efacfc8f5fa.png" width="500">  |
-| 3D view  | <img src="https://user-images.githubusercontent.com/130320412/231380412-cc34aeb8-ea1c-4979-a4f1-6c46fc3fbe25.png" width="500">  |
-| View 2D  | <img src="https://user-images.githubusercontent.com/130320412/231380725-7be20b36-bd58-4083-bc2e-0ca0d08f497c.png" width="500">  |
+| Color Picker Type | <img src="https://user-images.githubusercontent.com/130320412/231377443-20438d7f-53b3-4420-bf87-e9b71b3251a0.png" width="500">  |
+| Spacebar Action | <img src="https://user-images.githubusercontent.com/130320412/231400591-f909b327-26ce-458a-87f6-8efacfc8f5fa.png" width="500">  |
+| 3D view | <img src="https://user-images.githubusercontent.com/130320412/231380412-cc34aeb8-ea1c-4979-a4f1-6c46fc3fbe25.png" width="500">  |
+| View 2D | <img src="https://user-images.githubusercontent.com/130320412/231380725-7be20b36-bd58-4083-bc2e-0ca0d08f497c.png" width="500">  |
 
 ### Add-ons
 
