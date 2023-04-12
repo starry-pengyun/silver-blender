@@ -93,7 +93,7 @@ Manage and share my Blender and projects to optimize workflow. Explore a variety
 | Clear | <img src="https://user-images.githubusercontent.com/130320412/231430432-a34881f7-bc89-491c-ab3b-d414d1ec85cf.png" width="500"> |
 | Show/Hide | <img src="https://user-images.githubusercontent.com/130320412/231431972-dc96b9b3-19b2-4428-8264-210e9449de8e.png" width="500"> |
 | 选择项和活动物体 | <img src="https://user-images.githubusercontent.com/130320412/231432474-b38ae82f-d60f-4370-a8cc-58279b12a3b8.png" width="500"> |
-
+| Collection | <img src="https://user-images.githubusercontent.com/130320412/231436005-9b6783cd-0a56-44fe-ab49-b798829ace0a.png" width="500"> |
 
 <!-- INITIAL SETUP -->
 ## Initial setup (Version 3.5)
