@@ -81,7 +81,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About the project
 
 Manage and share my Blender and projects to optimize workflow. Explore a variety of techniques and styles to unleash the full potential of Blender.
 
@@ -102,7 +102,9 @@ Manage and share my Blender and projects to optimize workflow. Explore a variety
  -->
 
 <!-- INITIAL SETUP -->
-## Initial Setup (Version 3.5)
+## Initial setup (Version 3.5)
+
+### Navigation setting
 
 <!-- This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
@@ -201,7 +203,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## References
 
-### Markdown Style
+### Markdown style
 
 - [Size Limit](https://github.com/ai/size-limit)
 - [Best README Template](https://github.com/othneildrew/Best-README-Template)
