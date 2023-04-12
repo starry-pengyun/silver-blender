@@ -101,10 +101,10 @@ Manage and share my Blender and projects to optimize workflow. Explore a variety
 
  -->
 
-<!-- GETTING STARTED -->
-<!-- ## Getting Started
+<!-- INITIAL SETUP -->
+## Initial Setup (Version 3.5)
 
-This is an example of how you may give instructions on setting up your project locally.
+<!-- This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
