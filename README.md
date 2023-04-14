@@ -90,10 +90,6 @@ Manage and share my Blender and projects to optimize workflow. Explore a variety
 
 https://kapeli.com/cheat_sheets/Blender.docset/Contents/Resources/Documents/index
 
-## General
-
-### Show/Hide
-
 | Operation | Description |  |
 | --- | --- | --- |
 | Clear | <img src="https://user-images.githubusercontent.com/130320412/231430432-a34881f7-bc89-491c-ab3b-d414d1ec85cf.png" width="500"> | |
