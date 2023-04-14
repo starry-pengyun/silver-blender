@@ -67,6 +67,12 @@ https://kapeli.com/cheat_sheets/Blender.docset/Contents/Resources/Documents/inde
 | Apply | <img src="https://user-images.githubusercontent.com/130320412/232004583-2dc0ad9e-ba98-42d4-9828-72f99333d132.png" width="500"> | <img src="https://user-images.githubusercontent.com/130320412/232004999-3ead3d07-a220-4240-834e-bb358cc23db3.png" width="300"> |
 | Orientations | <img src="https://user-images.githubusercontent.com/130320412/232033490-1f7d1d82-34c8-4eaa-bb3f-eb541191e7f7.png" width="500" > | |
 | Pivot Point | <img src="https://user-images.githubusercontent.com/130320412/232032840-96c04a02-dbf0-4ad3-b12b-fe067808669d.png" width="500" > | |
+| Select More | Ctrl + T / A |  <img src="https://user-images.githubusercontent.com/130320412/232034219-4ab1f29b-9824-413c-8469-7fdaab2f60cc.png" width="500" > |
+| Loop Edge | Ctrl + R | |
+| 分离 | P | |
+| 沿平面移动 | 选中+ GG | |
+
+
 
 <!-- INITIAL SETUP -->
 ## Initial setup (Version 3.5)
