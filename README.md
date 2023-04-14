@@ -91,6 +91,9 @@ https://kapeli.com/cheat_sheets/Blender.docset/Contents/Resources/Documents/inde
 
 ### Add-ons
 
+
+| Name | Screenshot |
+| --- | --- |
 | 3D Viewport Pie Menus | <img src="https://user-images.githubusercontent.com/130320412/232038262-4b1b53f2-403c-4062-b367-5f637f62a784.png" width="500">  |
 
 
