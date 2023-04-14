@@ -9,44 +9,11 @@
 -->
 
 
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-<!-- [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
- -->
-
-
 <!-- PROJECT LOGO -->
 <div align="center">
   
   # Silver Blender
-<!--   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a> -->
 
-<!--   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
-  </p> -->
 </div>
 
 
@@ -98,12 +65,8 @@ https://kapeli.com/cheat_sheets/Blender.docset/Contents/Resources/Documents/inde
 | Collection | <img src="https://user-images.githubusercontent.com/130320412/231436005-9b6783cd-0a56-44fe-ab49-b798829ace0a.png" width="500"> | |
 | Cursor Snapping | <img src="https://user-images.githubusercontent.com/130320412/232003171-ce37f1df-2396-4de8-8a98-ceeb7fdabd4c.png" width="500"> | <img src="https://user-images.githubusercontent.com/130320412/232003769-2272dcc9-16bd-4cae-b3db-d15178255281.png" width="300"> |
 | Apply | <img src="https://user-images.githubusercontent.com/130320412/232004583-2dc0ad9e-ba98-42d4-9828-72f99333d132.png" width="500"> | <img src="https://user-images.githubusercontent.com/130320412/232004999-3ead3d07-a220-4240-834e-bb358cc23db3.png" width="300"> |
-| Orientations | <img src="https://user-images.githubusercontent.com/130320412/232031340-0d2444a4-72e8-4925-b456-cc08ad179ee2.png" width="500" > | |
+| Orientations | <img src="https://user-images.githubusercontent.com/130320412/232033490-1f7d1d82-34c8-4eaa-bb3f-eb541191e7f7.png" width="500" > | |
 | Pivot Point | <img src="https://user-images.githubusercontent.com/130320412/232032840-96c04a02-dbf0-4ad3-b12b-fe067808669d.png" width="500" > | |
-
-
-
-
 
 <!-- INITIAL SETUP -->
 ## Initial setup (Version 3.5)
