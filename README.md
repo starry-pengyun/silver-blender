@@ -213,12 +213,11 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
+## Changelog
 
+[Changelog](CHANGELOG.md)
 
-<!-- ACKNOWLEDGMENTS -->
-## References
-
-### Markdown style
+## Markdown style
 
 - [Size Limit](https://github.com/ai/size-limit)
 - [Best README Template](https://github.com/othneildrew/Best-README-Template)
