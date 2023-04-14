@@ -94,8 +94,6 @@ https://kapeli.com/cheat_sheets/Blender.docset/Contents/Resources/Documents/inde
 
 ### Show/Hide
 
-<img src="https://user-images.githubusercontent.com/130320412/231431972-dc96b9b3-19b2-4428-8264-210e9449de8e.png" width="500">
-
 | Operation | Description |  |
 | --- | --- | --- |
 | Clear | <img src="https://user-images.githubusercontent.com/130320412/231430432-a34881f7-bc89-491c-ab3b-d414d1ec85cf.png" width="500"> | |
@@ -104,6 +102,10 @@ https://kapeli.com/cheat_sheets/Blender.docset/Contents/Resources/Documents/inde
 | Collection | <img src="https://user-images.githubusercontent.com/130320412/231436005-9b6783cd-0a56-44fe-ab49-b798829ace0a.png" width="500"> | |
 | Cursor Snapping | <img src="https://user-images.githubusercontent.com/130320412/232003171-ce37f1df-2396-4de8-8a98-ceeb7fdabd4c.png" width="500"> | <img src="https://user-images.githubusercontent.com/130320412/232003769-2272dcc9-16bd-4cae-b3db-d15178255281.png" width="300"> |
 | Apply | <img src="https://user-images.githubusercontent.com/130320412/232004583-2dc0ad9e-ba98-42d4-9828-72f99333d132.png" width="500"> | <img src="https://user-images.githubusercontent.com/130320412/232004999-3ead3d07-a220-4240-834e-bb358cc23db3.png" width="300"> |
+| Orientations | <img src="https://user-images.githubusercontent.com/130320412/232031340-0d2444a4-72e8-4925-b456-cc08ad179ee2.png" width="500" > | |
+| Pivot Point | <img src="https://user-images.githubusercontent.com/130320412/232032840-96c04a02-dbf0-4ad3-b12b-fe067808669d.png" width="500" > | |
+
+
 
 
 
