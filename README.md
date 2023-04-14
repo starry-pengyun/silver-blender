@@ -215,7 +215,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 ## Changelog
 
-👉 Check the [Changelog](CHANGELOG.md).
+🧂 Check the [Changelog](CHANGELOG.md) here.
 
 ## Markdown style
 
