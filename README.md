@@ -64,13 +64,16 @@ https://kapeli.com/cheat_sheets/Blender.docset/Contents/Resources/Documents/inde
 | 选择项和活动物体 | <img src="https://user-images.githubusercontent.com/130320412/231432474-b38ae82f-d60f-4370-a8cc-58279b12a3b8.png" width="500"> | |
 | Collection | <img src="https://user-images.githubusercontent.com/130320412/231436005-9b6783cd-0a56-44fe-ab49-b798829ace0a.png" width="500"> | |
 | Cursor Snapping | <img src="https://user-images.githubusercontent.com/130320412/232003171-ce37f1df-2396-4de8-8a98-ceeb7fdabd4c.png" width="500"> | <img src="https://user-images.githubusercontent.com/130320412/232003769-2272dcc9-16bd-4cae-b3db-d15178255281.png" width="300"> |
-| Apply | <img src="https://user-images.githubusercontent.com/130320412/232004583-2dc0ad9e-ba98-42d4-9828-72f99333d132.png" width="500"> | <img src="https://user-images.githubusercontent.com/130320412/232004999-3ead3d07-a220-4240-834e-bb358cc23db3.png" width="300"> |
+| Apply (3D Viewport Pie Menu) | <img src="https://user-images.githubusercontent.com/130320412/232004583-2dc0ad9e-ba98-42d4-9828-72f99333d132.png" width="500"> | <img src="https://user-images.githubusercontent.com/130320412/232004999-3ead3d07-a220-4240-834e-bb358cc23db3.png" width="300"> |
 | Orientations | <img src="https://user-images.githubusercontent.com/130320412/232033490-1f7d1d82-34c8-4eaa-bb3f-eb541191e7f7.png" width="500" > | |
 | Pivot Point | <img src="https://user-images.githubusercontent.com/130320412/232032840-96c04a02-dbf0-4ad3-b12b-fe067808669d.png" width="500" > | |
-| Select More | Ctrl + T / A |  <img src="https://user-images.githubusercontent.com/130320412/232034219-4ab1f29b-9824-413c-8469-7fdaab2f60cc.png" width="500" > |
+| Select More | Ctrl + T / A(3D Viewport Pie Menu) |  <img src="https://user-images.githubusercontent.com/130320412/232034219-4ab1f29b-9824-413c-8469-7fdaab2f60cc.png" width="500" > |
 | Loop Edge | Ctrl + R | |
 | 分离 | P | |
 | 沿平面移动 | 选中+ GG | |
+| 倒角 | 选中Ctrl + B | |
+| 沿路径选择 | Ctrl + 选择 | |
+| i 工具 + Ctrl 会变为挤压 | |
 
 
 
@@ -87,6 +90,9 @@ https://kapeli.com/cheat_sheets/Blender.docset/Contents/Resources/Documents/inde
 | View 2D | <img src="https://user-images.githubusercontent.com/130320412/231380725-7be20b36-bd58-4083-bc2e-0ca0d08f497c.png" width="500">  |
 
 ### Add-ons
+
+| 3D Viewport Pie Menus | <img src="https://user-images.githubusercontent.com/130320412/232038262-4b1b53f2-403c-4062-b367-5f637f62a784.png" width="500">  |
+
 
 ### [Blender's directory](https://docs.blender.org/manual/en/latest/advanced/blender_directory_layout.html#macos)
 
